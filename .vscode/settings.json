@@ -1,0 +1,37 @@
+{
+    "cSpell.words": [
+        "dataframe",
+        "dataframes",
+        "heatmaps",
+        "histplot"
+    ],
+    "cSpell.ignoreWords": [
+        "ACPER",
+        "Fini",
+        "MAPE",
+        "RMSE",
+        "chir",
+        "figsize",
+        "fontsize",
+        "getcwd",
+        "hstack",
+        "hyperparameters",
+        "iloc",
+        "importances",
+        "isin",
+        "joblib",
+        "lineplot",
+        "medae",
+        "ncols",
+        "nrows",
+        "overfit",
+        "savefig",
+        "scatterplot",
+        "sklearn",
+        "xgboost",
+        "xlabel",
+        "xticks",
+        "ylabel",
+        "ylim"
+    ]
+}

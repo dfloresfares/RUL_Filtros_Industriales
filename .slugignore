@@ -1,0 +1,9 @@
+/documentation
+/jupyter_notebooks
+/inputs
+/outputs
+/.github
+/.vscode
+README.md
+*.psd
+*.pdf
